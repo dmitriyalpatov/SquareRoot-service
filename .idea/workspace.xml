@@ -5,16 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="daff628d-f7bb-4ebe-b980-093ab599a6c0" name="Changes" comment="Создание файла">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homework/QA/java/SquareRootService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/homework/QA/SquareRootServiceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/myservice/SquareRoot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/netologi/SRS/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/homework/QA/SquareRootServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/netologi/SRS/SquareRootServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/myservice/SquareRoot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/myservice/SquareRoot.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,22 +34,112 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_directory_selection&quot;: &quot;C:/Users/USER/IdeaProjects/square_root/src/main/java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_directory_selection": "C:/Users/USER/IdeaProjects/square_root/src/test/java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="myservice" />
       <recent name="" />
     </key>
+  </component>
+  <component name="RunManager" selected="JUnit.SquareRootServiceTest.shouldCalculateNumberOfSquaresExceedingMinimumLimit">
+    <configuration name="SquareRootServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Square_Root" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.netologi.SRS.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.netologi.SRS" />
+      <option name="MAIN_CLASS_NAME" value="ru.netologi.SRS.SquareRootServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SquareRootServiceTest.shouldCalculateNumberOfSquaresExceedingMinimumLimit" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Square_Root" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.netologi.SRS.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.netologi.SRS" />
+      <option name="MAIN_CLASS_NAME" value="ru.netologi.SRS.SquareRootServiceTest" />
+      <option name="METHOD_NAME" value="shouldCalculateNumberOfSquaresExceedingMinimumLimit" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SquareRootServiceTest.test (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Square_Root" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.netologi.SRS.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.netologi.SRS" />
+      <option name="MAIN_CLASS_NAME" value="ru.netologi.SRS.SquareRootServiceTest" />
+      <option name="METHOD_NAME" value="test(int,int,int)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SquareRootServiceTest.test (3)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Square_Root" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.netologi.SRS.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.netologi.SRS" />
+      <option name="MAIN_CLASS_NAME" value="ru.netologi.SRS.SquareRootServiceTest" />
+      <option name="METHOD_NAME" value="test(int,int,int,int)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SquareRootServiceTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Square_Root" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.netologi.SRS.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.netologi.SRS" />
+      <option name="MAIN_CLASS_NAME" value="ru.netologi.SRS.SquareRootServiceTest" />
+      <option name="METHOD_NAME" value="test(int,int)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SquareRootServiceTest.shouldCalculateNumberOfSquaresExceedingMinimumLimit" />
+        <item itemvalue="JUnit.SquareRootServiceTest.test" />
+        <item itemvalue="JUnit.SquareRootServiceTest" />
+        <item itemvalue="JUnit.SquareRootServiceTest.test (3)" />
+        <item itemvalue="JUnit.SquareRootServiceTest.test (2)" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -66,6 +150,14 @@
       <option name="presentableId" value="Default" />
       <updated>1655392303106</updated>
     </task>
+    <task id="LOCAL-00001" summary="Создание файла">
+      <created>1655399795304</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1655399795304</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
